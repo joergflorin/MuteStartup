@@ -20,6 +20,10 @@ MuteStartup installs hooks for login and logout and following scripts, wich are 
 This program is based on following information:
 http://hints.macworld.com/article.php?story=20031005165919533
 
-© 2012 by Joerg Florin (dev@casa-blu.de)
+&copy; 2012 by Joerg Florin (git@casa-blu.de)
 
 This project requires the tool Packages (http://s.sudre.free.fr/Software/Packages/about.html).
+
+*This version actually does not work on Yosemite (10.10) or later and maybe not with Mavericks (10.9)*
+
+See issue https://github.com/joergflorin/MuteStartup/issues/1
