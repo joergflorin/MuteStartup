@@ -1,0 +1,6 @@
+.DS_Store
+CVS/
+.project
+.settings
+.cvsignore
+build/

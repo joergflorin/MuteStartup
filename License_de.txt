@@ -1,0 +1,5 @@
+Diese Software kann frei verwendet werden. Ich Ÿbernehme aber weder Garantie noch GewŠhrleistung.
+
+Es handelt sich um Open Source. Die Quellen kšnnen bei mir per Mail angefordert werden.
+
+(c) 2012 by Jšrg Florin (dev@casa-blu.de)

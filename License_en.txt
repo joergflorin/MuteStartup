@@ -1,0 +1,5 @@
+This software can be used free of charged and may be distributed freely. There is no warranty or guarantee for this program.
+
+Source code can be ordered per mail.
+
+(c) 2012 by Jšrg Florin (dev@casa-blu.de)

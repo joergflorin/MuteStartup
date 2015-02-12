@@ -1,0 +1,1 @@
+MuteStartup turns off startup sound.
