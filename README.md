@@ -2,6 +2,8 @@
 
 MuteStartup turns off startup sound.
 
+The latest release as a zipped installer package can be downloaded from here: https://github.com/joergflorin/MuteStartup/releases/latest
+
 This technique is only tested on following devices and system versions, but I think it works on any Mac with Mac OS X 10.6 to 10.8 (maby on earlier system versions):
 
 MacBook Pro 9,1 (10.8)
@@ -24,6 +26,6 @@ http://hints.macworld.com/article.php?story=20031005165919533
 
 This project requires the tool Packages (http://s.sudre.free.fr/Software/Packages/about.html).
 
-*This version actually does not work on Yosemite (10.10) or later and maybe not with Mavericks (10.9)*
+**This version actually does not work on Yosemite (10.10) or later and maybe not work on Mavericks (10.9).**
 
 See issue https://github.com/joergflorin/MuteStartup/issues/1
